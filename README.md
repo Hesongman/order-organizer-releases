@@ -8,11 +8,7 @@
 
 https://github.com/Hesongman/order-organizer-releases/releases/latest
 
-下载后双击运行：
-
-```text
-订单整理工具.exe
-```
+下载附件 `OrderOrganizer.exe` 后双击运行。
 
 ## 主要功能
 
@@ -28,7 +24,7 @@ https://github.com/Hesongman/order-organizer-releases/releases/latest
 ## 使用方法
 
 1. 把本批次的 Excel 和 PDF 放到同一个待处理文件夹。
-2. 打开 `订单整理工具.exe`。
+2. 打开 `OrderOrganizer.exe`。
 3. 在界面里选择 `输入文件夹` 和 `输出文件夹`。
 4. 点击 `预检查`，确认可处理数量和跳过原因。
 5. 确认无误后点击 `开始整理`。
@@ -71,4 +67,4 @@ PDF 文件名需要包含对应的订单号，工具才能自动匹配。
 
 ## 更新
 
-工具启动时会自动检查是否有新版本。如果发现新版本，会提示打开下载页面。更新方式是重新下载最新版 `订单整理工具.exe` 后替换旧文件。
+工具启动时会自动检查是否有新版本。如果发现新版本，会提示打开下载页面。更新方式是重新下载最新版 `OrderOrganizer.exe` 后替换旧文件。
